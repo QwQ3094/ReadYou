@@ -27,12 +27,12 @@ if (keyPropsFile.exists()) {
 }
 
 android {
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "me.ash.reader"
         minSdk = 26
-        targetSdk = 33
+        targetSdk = 35
         versionCode = 25
         versionName = "0.10.1"
 
