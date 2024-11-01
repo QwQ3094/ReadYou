@@ -41,7 +41,7 @@ hiltWork = "1.1.0"
 
 # Miscellaneous Libraries
 androidSVG = "1.4"
-junit = "1.2.1"
+junit = "4.13.2"
 junitExt = "1.1.5"
 mockitoCore = "5.11.0"
 mockitoJUnitJupiter = "5.11.0"
